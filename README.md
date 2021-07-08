@@ -1,6 +1,6 @@
 # hhxka.flutter.common
 
-**这是一个 flutter 公共库，属于 hhxka.flutter.core 之一，里面包含的其中包含一些小功能工具。**
+**这是一个 flutter 公共库，属于 hhxka.flutter.core 之一，其中包含一些小功能工具。**
 
 ``` diff
 
